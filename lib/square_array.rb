@@ -5,5 +5,5 @@ def square_array(array)
     result << array[i]*array[i]
     i += 1
   end
-  puts result
+  result
 end
