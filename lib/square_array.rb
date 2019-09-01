@@ -4,4 +4,6 @@ def square_array(array)
   while i < array.size do
     result << array[i]*array[i]
     i += 1
+  end
+  puts result
 end
